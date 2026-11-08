@@ -1,6 +1,6 @@
 ## Hola, soy David 👋
 
-Frontend designer en Vila-real (Castellón). Trabajo en una agencia digital haciendo e-commerce con **PrestaShop** y **WordPress/WooCommerce**, y en mi tiempo libre experimento con **Three.js** y shaders, y desarrollo mis propias apps móviles.
+Frontend designer en Madrid. Trabajo en una agencia digital haciendo e-commerce con **PrestaShop** y **WordPress/WooCommerce**, y en mi tiempo libre experimento con **Three.js** y shaders, y desarrollo mis propias apps móviles.
 
 🌍 [davidllona.com](https://davidllona.com) — mi portfolio, una experiencia 3D interactiva
 
